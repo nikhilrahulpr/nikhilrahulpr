@@ -1,6 +1,7 @@
 ### Hi there 👋
-I'm currently working on having better skills
-I'm currently learing javascript
+- 🔭 I’m currently working on acquiring better skills
+- 🌱 I’m currently learning javascript
+- 🤔 I’m looking for help with learing new language
 <!--
 **nikhilrahulpr/nikhilrahulpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
